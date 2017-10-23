@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/satnami
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://satnami.github.io
+  * I am satnami (https://keybase.io/satnami) on keybase.
+  * I have a public key with fingerprint F0B9 7020 A9C5 747E 13E8  5B2C C797 5D90 4780 90F9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010169e0480c61435ced8cb30365446b755ccd9c886b1888223957af6421b552a8da0a",
+      "fingerprint": "f0b97020a9c5747e13e85b2cc7975d90478090f9",
+      "host": "keybase.io",
+      "key_id": "c7975d90478090f9",
+      "kid": "010169e0480c61435ced8cb30365446b755ccd9c886b1888223957af6421b552a8da0a",
+      "uid": "0feb8e072d4328ab62f61c87cb736919",
+      "username": "satnami"
+    },
+    "service": {
+      "hostname": "satnami.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1508738734,
+  "expire_in": 157680000,
+  "prev": "4189820fa652840aeeed1bbc74656ad107a4340ad1f65438f1ae2ab88002c3d6",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUm1IFEEYvrO00iz1R2FFxFaSdMns7uzu7CVBoUT0QRBiFnXN7M6ei+ftdbd3
+VialkBWUXFBI9iNJyqIMJUUhFZIoqCQhopJMoiykDMw0TPqY7eNH0M+GgZl553me
+93lf3njqNFeC+27trvj6w/FJ9/1h4ioaqX5YzhFL3895y7kS+vOgAZ1GbF+JqXNe
+DvCAl1UKIAKazENR0qiONCICUZYglIkiSZqmqxpCMuERQoIgqpKCDRkKPJEkASMd
+A8x5OMMM+mk4FDaDNpM1AFEVIACsapICFcqLFElE0DRFVSRdBVBBQAWGyojFVsRh
+MHMER2iOabEYe/h+2vsH/j/7jv6SMyhBFCiCDkUBYSILhsxrSNGIIsoq7+SNRmg4
+iEspQ0ewzW4mV+HhWDBmatTpq1PI34Acv2kXR8mvmkJhy7Y0K8C+i207FPE6dHt/
+yMGXUeL7reQjZlBnvWSMGA1HTCvIeXmG1GzTkeYlgBSRbejh6L6QGaY+00FIiowA
+W04eGmOSkEe7VCQAA8uSgCDAlFKdJ0RToCzJWOeBgqHI4jpvsJaJyOAxFTBBTEbQ
+RF3mnOL2Bi0mrjKj2O/UZfqD2I6GKVeRfNy9aLrLneBKSkxwxsyVPCvtz+zN2zjj
+G3h0vbJ/MpbpPZU/1WRWtdSPdxYdjd/aU79cqmuFFYMtferZZn/d1a2BS3nnTl7o
+SqzOXlf94khqXsr3kkHYtnTtkoYjHX09+Wcvn1tw+3pmVs/LuSkH4hPCqtPdWZnt
+i8cK2grqb8MbgXs53Ohq76ekM+VDK/J78wefD38tPMQdW3plS9ZmT+vTV8n8xe1r
+Mj6cOJg9J7c7rXLv9pkPuu4OXnsMF2Z9GRnprJ09MDVk7mzcES2cPrDhzvhkrnXq
+dcGn9P6mlRNv6lfe3DTa3VjWnNP+Vq/6PHS+ZmDufPfIsyS4Nb5trL20pn+Z//L7
+sd5360N1u09c/NjbUF02Oz0jVtPQ8eQH
+=QECT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/satnami
+
+==================================================================
